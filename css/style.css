@@ -1,0 +1,30 @@
+
+body{
+    font: 20px Arial;
+}
+
+
+.navbar{
+    background-color: #00BFFF;
+}
+
+.container-fluid{
+    background-color: #1141e2;
+    color: white;
+}
+
+.margin{    
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #f0f1c3;
+    color: white;     
+}
+
+.bg-footer{
+    background-color: rgb(15, 11, 11);
+    color: white;
+    font: 15px Arial;
+}
